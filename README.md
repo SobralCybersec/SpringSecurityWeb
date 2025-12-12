@@ -4,7 +4,7 @@
 Teste de Endpoints com Integração JWT, Autenticação e Encriptação
 Uma aplicação exemplo em Java com Spring Boot que demonstra como proteger endpoints usando Spring Security + JWT (JSON Web Tokens) para autenticação e autorização.
 
-## Demonstração:
+## Demonstração(Clique):
 
 [![Watch the video](https://i.imgur.com/AYZwLOe.png)](https://youtu.be/yYa2N0pQB8Q)
 
