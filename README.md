@@ -6,6 +6,8 @@ Uma aplicação exemplo em Java com Spring Boot que demonstra como proteger endp
 
 ## Demonstração:
 
+[![Watch the video](https://i.imgur.com/AYZwLOe.png)](https://youtu.be/yYa2N0pQB8Q)
+
 ## Sobre o Projeto:
 
 Este projeto foi criado para ilustrar, de forma prática, como integrar Spring Security com JWT para proteger rotas em uma API e validar usuários autenticados.
